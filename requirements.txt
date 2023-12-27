@@ -1,2 +1,3 @@
 ## imports pywhatkit library/module
 pywhatkit
+﻿termcolor==1.1.0
